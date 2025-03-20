@@ -13,7 +13,12 @@ alkalmazás fejlesztőitől igényelhet.
 ## Az alkalmazás használati útmutatói
 
 - ### [Űrlap Modul](https://github.com/grbeno/szaktanweb_info/blob/main/%C3%9Atmutat%C3%B3k/f%C3%A1jl.pdf)
+
+[![Watch the video](https://raw.githubusercontent.com/grbeno/szaktanweb_info/main/video/thumbnail.jpg)](https://raw.githubusercontent.com/grbeno/szaktanweb_info/main/video/szaktanweb_urlap.mp4)
+
 - ### [Fájl feltöltés Modul](https://github.com/grbeno/szaktanweb_info/blob/main/%C3%9Atmutat%C3%B3k/%C5%B1rlap.pdf)
+
+
 
 
 
