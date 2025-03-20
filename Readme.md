@@ -14,7 +14,7 @@ alkalmazás fejlesztőitől igényelhet.
 
 - ### [Űrlap Modul](https://github.com/grbeno/szaktanweb_info/blob/main/%C3%9Atmutat%C3%B3k/f%C3%A1jl.pdf)
 
-[![video](https://raw.githubusercontent.com/grbeno/szaktanweb_info/main/video/thumbnail.jpg)]
+[video](https://raw.githubusercontent.com/grbeno/szaktanweb_info/main/video/thumbnail.jpg)
 
 - ### [Fájl feltöltés Modul](https://github.com/grbeno/szaktanweb_info/blob/main/%C3%9Atmutat%C3%B3k/%C5%B1rlap.pdf)
 
