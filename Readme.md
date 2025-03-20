@@ -22,7 +22,7 @@ alkalmazás fejlesztőitől igényelhet.
 
 - ### [fájl.pdf](https://github.com/grbeno/szaktanweb_info/blob/main/%C3%9Atmutat%C3%B3k/%C5%B1rlap.pdf)
 
-- ![video](https://raw.githubusercontent.com/grbeno/szaktanweb_info/main/video/thumbnail2.jpg)
+- [![video]](https://github.com/user-attachments/assets/d9741c8d-7345-471d-a7cc-642118fad182)
 
 
 
